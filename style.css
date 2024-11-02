@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    background-color: aqua;
+}
+.row-1{
+    width: 300px;
+    height: 300px;
+    background-color: gray;
+    text-align: center;
+}
+.head-1{
+    font-size: 30px;
+    color: chocolate;
+}
+.head-2{
+    font-size: 30px;
+    color:blue ;
+}
+.holder{
+    background-color: #87ca9c;
+    width: 500px;
+    height: 300px;
+   padding: 150px;
+   padding-bottom: 50px;
+   padding-left: 100px;
+   padding-right: 50px;
+   border-radius: 20px;
+}
+.holder-2{
+    text-align: center;
+    background-color: aqua;
+    width: 400px;
+    height: 200px;
+    padding-top: 3em;
+    border-radius: 15px;
+}
+.btn{
+    border-radius: 30px;
+}
+.enter-1{
+   font-size: 20px;
+}
